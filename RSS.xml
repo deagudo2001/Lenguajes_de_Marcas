@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+    <channel>
+        <language>es-es</language>
+        <title> Prueba Lenguaje de Marcas </title>
+        <link> file:///C:/Users/MERCEDES/Desktop/PW%20lmarc/RSS.xml </link>
+        <description>Es una prueba para la asignatura de Lenguaje de Marcas</description>
+            <item>
+                <guid>https://elpais.com/economia/2022-02-11/el-corte-ingles-comienza-a-negociar-un-ere-para-620-trabajadores-de-su-filial-de-viajes.html</guid>
+                <title> NOTICIA 1 </title>
+                <category> Noticias/Turismo </category>
+                <link> https://elpais.com/economia/2022-02-11/el-corte-ingles-comienza-a-negociar-un-ere-para-620-trabajadores-de-su-filial-de-viajes.html </link>
+                <description>El Corte Inglés comienza a negociar un ERE para 620 trabajadores de su filial de viajes</description>
+                <author>a21relime@iesgrancapitan.org (Mercedes Redondo)</author>
+                <image>
+                    <url> https://imagenes.elpais.com/resizer/rF76pZNSOHhmEFAVNBghAeF-TNU=/980x0/filters:focal(556x249:566x259)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7RP77EDCJHLVADV5BWRLSZEZDA.jpg </url>
+                        <width> 50 </width>
+                        <height>200 </height>
+                    <title> EL CORTE INGLÉS </title>
+                    <description>El Corte Inglés comienza a negociar un ERE para 620 trabajadores de su filial de viajes</description>
+                    <link> https://elpais.com/economia/2022-02-11/el-corte-ingles-comienza-a-negociar-un-ere-para-620-trabajadores-de-su-filial-de-viajes.html </link>
+                </image>
+                <comments>
+                    https://elpais.com/economia/2022-02-11/el-corte-ingles-comienza-a-negociar-un-ere-para-620-trabajadores-de-su-filial-de-viajes.html#:~:text=SOBRE%20LA%20FIRMA-,Cristina%20Galindo,trabajado%20anteriormente%20en%20Internacional%20y%20los%20suplementos%20Domingo%20e%20Ideas.,-M%C3%A1s%20informaci%C3%B3n
+                </comments>
+                <copyright> Copyright 2022, Cristina Galindo </copyright>
+            </item>
+            <item>
+                <guid>https://elpais.com/eps/2022-02-09/el-hombre-que-no-tiene-casa-y-escribio-su-primera-novela-en-hogares-de-otros.html</guid>
+                <title> NOTICIA 2 </title>
+                <category> Noticias/Audaz </category>
+                <link> https://elpais.com/eps/2022-02-09/el-hombre-que-no-tiene-casa-y-escribio-su-primera-novela-en-hogares-de-otros.html </link>
+                <description>El hombre que no tiene casa y escribió su primera novela en Viena, Praga o Marrakech</description>
+                <author>a21relime@iesgrancapitan.org (Mercedes Redondo)</author>
+                <image>
+                    <url> https://imagenes.elpais.com/resizer/QeOnTtedO3t8bknxidNsLpcI5uw=/980x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/FBYUTU64Q5CL7LVWLTZWUFIOOU.jpg </url>
+                        <width> 50 </width>
+                        <height>200 </height>
+                    <title> SERGI BELLVER </title>
+                    <description>El hombre que no tiene casa y escribió su primera novela en Viena, Praga o Marrakech</description>
+                    <link> https://elpais.com/eps/2022-02-09/el-hombre-que-no-tiene-casa-y-escribio-su-primera-novela-en-hogares-de-otros.html </link>
+                </image>
+                <copyright> Copyright 2022, Miquel Echarri </copyright>
+            </item>
+            <item>
+                <guid>https://elpais.com/opinion/2022-02-02/los-angeles.html</guid>
+                <title> NOTICIA 3 </title>
+                <category> Noticias/Columna </category>
+                <link> https://elpais.com/opinion/2022-02-02/los-angeles.html </link>
+                <description>Los Ángeles</description>
+                <author>a21relime@iesgrancapitan.org (Mercedes Redondo)</author>
+                <image>
+                    <url> https://imagenes.elpais.com/resizer/GhffV1YnUml6URkF55nmrPkmJl4=/980x0/filters:focal(848x597:858x607)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/VT3SYCXDZJELXH5QIMWHDYZU6U.jpeg </url>
+                        <width> 50 </width>
+                        <height>200 </height>
+                    <title> LOS ÁNGELES </title>
+                    <description>Los Ángeles</description>
+                    <link> https://elpais.com/eps/2022-02-09/el-hombre-que-no-tiene-casa-y-escribio-su-primera-novela-en-hogares-de-otros.html </link>
+                </image>
+                <comments>
+                    https://elpais.com/opinion/2022-02-02/los-angeles.html#:~:text=SOBRE%20LA%20FIRMA-,Leila%20Guerriero,Cadena%20SER.%20En%20EL%20PA%C3%8DS%20escribe%20columnas%2C%20cr%C3%B3nicas%20y%20perfiles.,-Comentarios
+                </comments>
+                <copyright> Copyright 2022, Leila Guerriero </copyright>
+            </item>
+    </channel>
+</rss>

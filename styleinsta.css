@@ -1,0 +1,268 @@
+@media only screen and (min-width: 1800px) {
+
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+}
+body {
+    background-color: rgb(201, 170, 230);
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Cabecera */
+
+.izquierda {
+    float: left;
+    margin-left: 17%;
+}
+.derecha {
+    height: 2%;
+}
+.buscar {
+    float: left;
+    padding-top: 1%;
+    margin-left: -30%;
+    margin-right: -2%;
+}
+img {
+    width: 2%;
+    padding-right: 1%;
+}
+.i1 {
+    width: 20%;
+}
+
+/* Historias */
+
+.circulitos {
+    width: 35%;
+    margin-left: 33%;
+    padding-top: 4%;
+    border-radius: 2%;
+}
+.circulo {
+    border-radius: 50%;
+    background: violet;
+    width: 9%;
+    height: 60px;
+    border: double white;
+    margin-top: -62px;
+}
+.circulo1 {
+    border-radius: 50%;
+    background: purple;
+    width: 9%;
+    height: 60px;
+    border: double white;
+    margin-left: 13%;
+    margin-top: -66px;
+}
+.circulo2 {
+    border-radius: 50%;
+    background: black;
+    width: 9%;
+    height: 60px;
+    border: double white;
+    margin-left: 26%;
+    margin-top: -66px;
+}
+.circulo3 {
+    border-radius: 50%;
+    background: blue;
+    width: 9%;
+    height: 60px;
+    border: double white;
+    margin-left: 39%;
+    margin-top: -66px;
+}
+.circulo4 {
+    border-radius: 50%;
+    background: lightcoral;
+    width: 9%;
+    height: 60px;
+    border: double white;
+    margin-left: 52%;
+    margin-top: -66px;
+}
+.circulo5 {
+    border-radius: 50%;
+    background: yellowgreen;
+    width: 9%;
+    height: 60px;
+    border: double white;
+    margin-left: 65%;
+    margin-top: -66px;
+}
+.circulo6 {
+    border-radius: 50%;
+    background: darkgoldenrod;
+    width: 9%;
+    height: 60px;
+    border: double white;
+    margin-left: 78%;
+    margin-top: -66px;
+}
+.circulo7 {
+    border-radius: 50%;
+    background: tan;
+    width: 9%;
+    height: 60px;
+    border: double white;
+    margin-left: 91%;
+    margin-top: -66px;
+}
+
+/* Publicación */
+
+.publicaciones {
+    width: 35%;
+    margin-left: 15%;
+    padding-bottom: 1%;
+    border-radius: 2%;
+    background-color: white;
+    margin-top: 5%;
+}
+.circulo8 {
+    border-radius: 50%;
+    background: tan;
+    width: 9%;
+    height: 60px;
+    border: double white;
+    margin-left: 0%;
+    margin-top: 3px;
+    float: left;
+}
+.letra {
+    margin-left: 15%;
+    color: grey;
+    margin-top: 5%;
+}
+.linea {
+    height: 1px;
+    background-color: grey;
+    margin-top: 40px;
+}
+.imagen {
+    width: 100%;
+    margin-top: 10%;
+}
+.mg {
+    width: 20%;
+    margin-top: 5%;
+    float: left;
+}
+.guardar {
+    width: 5%;
+    padding-left: 95%;
+    float: right;
+    margin-top: -4%;
+}
+.comentarios {
+    color: grey;
+    float: left;
+    font-size: 12px;
+    margin-top: 2%;
+}
+span {
+    color: black;
+}
+.linea1 {
+    height: 1px;
+    background-color: grey;
+    margin-top: 160px;
+}
+.emoji {
+    margin-top: 7px;
+    width: 3%;
+    float: left;
+    margin-left: 2%;
+}
+#comentario {
+    margin-left: 10%;
+    margin-top: 1%;
+}
+#pub {
+    color: rgb(87, 198, 231);
+    float: right;
+    margin-top: -3%;
+}
+
+/* Formulario */
+
+#formu {
+    float: right;
+    width: 30%;
+    height: 300px;
+    margin-top: -35%;
+    margin-right: 5%;
+    border-radius: 5%;
+    background-color: antiquewhite;
+}
+#logo {
+    width: 30%;
+    margin-left: 35%;
+}
+.boton {
+    color: white;
+    width: 50%;
+    font-weight: bold;
+    border-radius: 5%;
+    margin-left: 25%;
+    background-color: rgb(215, 28, 240);
+}
+#linea2 {
+    height: 1px;
+    background-color: grey;
+    width: 26%;
+    margin-left: 15%;
+    margin-top: 4%;
+    float: left;
+}
+#o {
+    margin-top: 2%;
+    padding-left: 275px;
+}
+#linea3 {
+    height: 1px;
+    background-color: grey;
+    width: 26%;
+    margin-top: 4%;
+    float: right;
+    margin-right: 15%;
+    margin-top: -7px;
+}
+#encuesta {
+    display: grid;
+    margin-left: 25%;
+    padding-top: 2%;
+    height: 140px;
+}
+footer {
+    text-align: center;
+    margin-top: 2%;
+    color: grey;
+}
+@media only screen and (max-width: 1800px) {
+    .izquierda {
+        float: left;
+        margin-left: 0px;
+    }
+    .buscar {
+        float: left;
+        padding-top: 1%;
+        margin-left: -55%;
+    }
+    img {
+
+    }
+}
